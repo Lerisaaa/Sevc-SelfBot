@@ -6,7 +6,7 @@ Don't forget edit 'config.json'
 
 ## Join Command
 
-.join <guildid> <voiceid>
+.join guildid voiceid
 
 example: .join 1276874891714367562 1276883684082974754
 
