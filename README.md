@@ -14,4 +14,5 @@ Don't forget edit 'config.json'
 ## Requirements
 
 npm install discord.js-selfbot-v13
+
 npm install @discordjs/voice
