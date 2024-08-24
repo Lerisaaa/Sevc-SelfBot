@@ -4,6 +4,12 @@ Thats a selfbot that aims to keep accounts always on the voice channel.
 
 Don't forget edit 'config.json'
 
+## Join Command
+
+.join <guildid> <voiceid>
+
+example: .join 1276874891714367562 1276883684082974754
+
 ## Config Information
 
 - token           = secret token of your account
